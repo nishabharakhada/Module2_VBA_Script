@@ -13,9 +13,8 @@ The yearly outcome (2017 and 2018) provided the details of the volumes and retur
 The total volumes derives that whether the stock is highly traded and the return confirms whether annual % is as per investor's goal?
 Also, having the data for more than a year checks the volatility of the market and factors that needed to be included in order to derive teh correct output
 
-
-
-
+![VBA_Challenge_2017](VBA_Challenge_2017.png)
+![VBA_Challenge_2018](VBA_Challenge_2018.png)
 Summary
 It is challenging for me to completely put advantages and disadvantages for refactoring. 
 I understand that when the dataset is large and if the code is not written efficiently then it takes larger amount of time to run th script and may not work when the time is the essence. 
